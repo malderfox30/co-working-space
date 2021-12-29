@@ -19,6 +19,6 @@ export const formConfig = {
 };
 
 export const appConfig = {
-  title: 'PikThat',
+  title: 'CWS',
   logo: Logo,
 };
