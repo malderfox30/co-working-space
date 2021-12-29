@@ -1,0 +1,495 @@
+{
+  "appInfo": {
+    "footer": "",
+    "name": "PikThat"
+  },
+  "ZERO_RESULTS": "Address not found",
+  "sideBar": {
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "users": "Users"
+  },
+  "header": {
+    "profile": "Profile",
+    "info": "Info",
+    "logout": "Logout",
+    "notification":"Notification"
+  },
+  "login": {
+    "title": "Login",
+    "subTitle": "The innovative mobile apps and webs for Schools and Parent to take care our kids",
+    "rememberMe": "Remember me",
+    "loginBtn": "Login",
+    "yourEmail": "Your Email",
+    "forgotPassword": "Forgot password?",
+    "password": "Password",
+    "loginFail": "Your email or password is incorrect! Please try again!",
+    "hasNoPermission": "You don't have permission to access this website"
+  },
+  "register": {
+    "title": "Register",
+    "registerBtn": "Register"
+  },
+
+  "forgotPassword": {
+    "title": "Forgot password",
+    "success": {
+      "title": "Reset Password Success!",
+      "description": "Don't worry! Fill in your Email and We'll send you a link to reset your password."
+    },
+    "error": "This email does not exist!"
+  },
+
+  "changePassword": {
+    "title": "Change Password",
+    "success": "Change Password successfully!",
+    "error": "Change Password failed! Please try again!"
+  },
+
+  "resetPassword": {
+    "code": "Code",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "success": "Reset Password successfully!",
+    "error": "Reset Password failed! Please try again!"
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "totalOrder": "Total Order",
+    "totalUser": "Total User",
+    "totalPercentage": "Total Percentage",
+    "registeredRenter": "Registered Renter",
+    "registeredOwner": "Registered Owner",
+    "bookingList": "Booking List",
+    "reviewList": "Review List",
+    "orderAmount": "Order Amount",
+    "userPaid": "User Paid",
+    "driverReceived": "Driver received",
+    "groupBy": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    },
+    "drivers": "Drivers",
+    "users": "Users",
+    "order": "Order",
+    "analytic": "Analytic",
+    "topRanking": "Top Ranking",
+    "rank": "Rank",
+    "name": "Name"
+  },
+  "settings": {
+    "header": "Settings",
+    "create": "Create Transportation",
+    "update": "Update Transportation"
+  },
+  "home": {
+    "title": {
+      "orders": "Orders",
+      "overview": "Overview"
+    }
+  },
+  "profile": {
+    "title": "General Information",
+    "header": "Profile",
+    "profileInfo": "Profile info",
+    "email": "Email",
+    "uploadAvatar": "Upload avatar",
+    "username": "Username",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "gender": "Gender",
+    "phone": "Phone",
+    "fullName": "Full Name",
+    "role": "Role"
+  },
+  "popupNotifications": {
+    "notification": "Notification",
+    "verifyRequest": "Verify Request!",
+    "markAllAsRead": "Mark all as read",
+    "clearAll": "Clear all",
+    "deleteSuccess": "Delete notification success",
+    "deleteAllSuccess": "Delete all notifications success",
+    "markAllReadSuccess": "Mark all notifications as read success",
+    "noNoti": "No notification right now",
+    "loading": "Loading notification...",
+    "requestPermissionFail": "Request notification permission fail"
+  },
+  "notifications": {
+    "id": "ID",
+    "user": "User",
+    "header": "Notification Management",
+    "searchKeyword": "Search keyword",
+    "userEmail": "User Email",
+    "notificationType": "Notification Type",
+    "date":"Date",
+    "createNotification": "Create Notification",
+    "title": "Title",
+    "notification": "Notification",
+    "pushTo": "Push To",
+    "allUsers": "All users",
+    "specificUsers": "Specific users",
+    "create": "Create Notification",
+    "createFail": "Create Notification Unsuccessfully",
+    "more": "More"
+  },
+  "isActive": {
+    "deactive": "Inactive",
+    "active": "Active",
+    "enableSuccess": "Enable success!",
+    "disableSuccess": "Disable success!"
+  },
+  "isDisabled": {
+    "disabled": "Disabled",
+    "notDisabled": "Not disabled"
+  },
+  "users": {
+    "title": "User Management",
+    "header": "Staff",
+    "generalInfo": "General Information",
+    "privateInfo": "Private Info",
+    "id": "User ID",
+    "familyName": "Family name",
+    "middleName": "Middle name",
+    "gender": "Gender",
+    "birthday": "Birthday",
+    "nationality": "Nationality",
+    "departmentID": "Department",
+    "name": "Name",
+    "verifyStatus": "Verify Status",
+    "address": "Address",
+    "address2": "Address 2",
+    "phone": "Phone",
+    "email": "Email",
+    "referralCode": "Referral Code",
+    "status": "Account Status",
+    "verifyInformation": "Verify Information",
+    "governmentId": "Government ID",
+    "frontCard": "Front Card",
+    "backCard": "Back Card",
+    "selfiePhoto": "Selfie Photo",
+    "cardNumber": "Card Number",
+    "dateRegister": "Date Register",
+    "verify": "Verify",
+    "notVerify": "Not verify",
+    "confirmVerify": "Do you want to verify this user?",
+    "confirmReject": "Input Reject Reason",
+    "errorVerify": "Can not find government and selfie photo!",
+    "errorReject": "Can not reject this user!",
+    "orders": "Orders",
+    "receivingOrders": "Receiving Orders",
+    "fullName": "User Name",
+    "startime": "Startime",
+    "endtime": "Endtime",
+    "enableSuccess": "Enable user successfully!",
+    "disableSuccess": "Disable user successfully!"
+  },
+  "drivers": {
+    "title": "Driver Management",
+    "driverId": "Driver ID",
+    "driverName": "Driver Name",
+    "name": "Name",
+    "avatar": "Avatar",
+    "phone": "Phone",
+    "type": "Type",
+    "verifyStatus": "Verify Status",
+    "active": "Active",
+    "email": "Email",
+    "city": "Province/ City",
+    "district": "District",
+    "address": "Address",
+    "address2": "Address 2",
+    "address2Label": "Address 2 (Optional)",
+    "birthday": "Birthday",
+    "gender": "Gender",
+    "rating": "Rating",
+    "rates": "Rates",
+    "noRate": "No rate",
+    "selectGender": "Select gender",
+    "status": "Account Status",
+    "verify": "Verify",
+    "orders": "Orders",
+    "notVerify": "Not verify",
+    "areYouSure": "Are you sure?",
+    "verifyInformation": "Verify Information",
+    "updateVerifyInformation": "Update Verify Information",
+    "transportationType": "Transportation Type",
+    "selectTransportation": "Select transportation",
+    "selectTransportationHeader": "Please select transporation type!",
+    "governmentId": "Government Card",
+    "frontCard": "Front Card",
+    "frontCardRequired": "Please upload your front card!",
+    "backCardRequired": "Please upload your back card!",
+    "backCard": "Back Card",
+    "cardNumber": "Card Number",
+    "dateRegister": "Date Register",
+    "driverLicense": "Driver License",
+    "driverLicenseNumber": "Driver License Number",
+    "expirationDate": "Expiration Date",
+    "vehicleRegistration": "Vehicle Registration",
+    "registrationVehicleNumber": "Registration Vehicle Number",
+    "yearOfManufacture": "Year of manufacture",
+    "brand": "Brand",
+    "licensePlate": "License plate",
+    "ownerName": "Owner Name",
+    "category": "Class / Category",
+    "insuranceCard": "Insurance Card",
+    "insuranceCardNumber": "Insurance Card Number",
+    "addVehicle": "Add other vehicle",
+    "relevantDocument": "Relevant Document",
+    "noDocument": "No document",
+    "attachRelevantDocument": "Attach Relevant Document",
+    "create": "Create Driver",
+    "update": "Update Driver",
+    "rejectReason": "Reject reason",
+    "noBrand": "No vehicle brand",
+    "noLicensePlate": "No license",
+    "noVehicle": "No vehicle",
+    "noVehicleRegistered": "No vehicle registered",
+    "enableSuccess": "Enable driver successfully!",
+    "disableSuccess": "Disable driver successfully!",
+    "description": "Description",
+    "noDescription": "No description"
+  },
+  "role": {
+    "superadmin": "Superadmin",
+    "admin": "admin"
+  },
+  "button": {
+    "create": "Create",
+    "add": "Add",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "save": "Save",
+    "ok": "Ok",
+    "search": "Search",
+    "reset": "Reset",
+    "resetMyPassword": "Reset Password",
+    "changePassword": "Change Password",
+    "forgotPassword": "Forgot Password",
+    "submit": "Submit",
+    "call": "Call",
+    "loadMore": "Load More...",
+    "sentInvite": "Sent Invite",
+    "resendInvite": "Resend Invite",
+    "editProfile": "Edit profile",
+    "pin": "Pin",
+    "unpin": "Unpin",
+    "update": "Update",
+    "filter": "Filter",
+    "clearFilter": "Clear",
+    "change": "Change",
+    "confirm": "Confirm",
+    "backToHome": "Back Home",
+    "verify": "Verify",
+    "reject": "Reject",
+    "push": "Push",
+    "backHome": "Back Home"
+  },
+  "popup": {
+    "alertDelete": "Delete Data",
+    "alertDeleteDes": "Do you want to delete item {{customMessage}}?",
+    "alertDeleteDevice": "Do you want to remove device for this plant?",
+    "enableItem": "Do you want to enable this item?",
+    "disableItem": "Do you want to disable this item?",
+    "confirm": "Confirm"
+  },
+  "error": {
+    "validateType": "Invalid",
+    "title": "Oops!",
+    "description": "Some thing wrong!",
+    "phone": "The input is not valid Phone!",
+    "waitingUpdate": "Waiting for updates",
+    "dontHavePerrmissonForThisJob": "You don't have permission to access this job!",
+    "locationNotFound": "Location not found!",
+    "wrongRangeDate": "End date must come after the Start date!",
+    "percentageGreaterThanHundred": "Referral amount must be less than or equal to 100%"
+  },
+
+  "success": {
+    "title": "Successfully!",
+    "description": "the update is successful!",
+    "unassociatedObd": "Unassociated Obd device from plant successfully.",
+    "verify": "Verify successfully",
+    "reject": "Verification request has been rejected!",
+    "createDriver": "Create driver successfully!",
+    "updateDriver": "Update driver successfully!",
+    "commission": "Update commission rate successfully!"
+  },
+  "statuses": {
+    "name": "Name",
+    "color": "Color",
+    "isActive": "Status",
+    "createPage": "Create Status",
+    "editPage": "Edit Status"
+  },
+  "gender": {
+    "title": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "status": {
+    "active": "Active",
+    "inactive": "Inactive",
+    "inprogress": "In Progress",
+    "approved": "Approved",
+    "verified": "Verified",
+    "rejected": "Rejected",
+    "pending": "Pending",
+    "notVerify": "Not verify",
+    "accepted": "Accepted",
+    "looking": "Looking For Driver",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "pickedUp": "Picked Up"
+  },
+  "placeholder": {
+    "undefined": "select...",
+    "searchKey": "Search keyword"
+  },
+  "text": {
+    "or": "OR"
+  },
+  "currencyUnit": {
+    "text": "CAD",
+    "sign": "$"
+  },
+  "empty": {
+    "page": "Sorry, the page you visited does not exist."
+  },
+  "orders": {
+    "title": "Order Management",
+    "userInfo": "User Information",
+    "driverInfo": "Driver Information",
+    "id": "Order ID",
+    "userName": "User Name",
+    "driverName": "Driver Name",
+    "type": "Type",
+    "finalCost": "Final Cost",
+    "dateTime": "Date Time",
+    "cancelReason": "Cancel Reason",
+    "status": "Status",
+    "startime": "Startime",
+    "endtime": "Endtime",
+    "expectedCost": "Expected Cost",
+    "orderStatus": "Order Status"
+  },
+  "package": {
+    "title": "Package Information",
+    "weight": "Weight (Kg)",
+    "height": "Height (Cm)",
+    "description": "Description Package",
+    "packageQuantity": "Package Quantity",
+    "attachedImage": "Attached Image",
+    "noImage": "No Image"
+  },
+  "delivery": {
+    "title": "Delivery Information",
+    "sender": "Sender Information",
+    "receiver": "Receiver Information",
+    "type": "Type",
+    "description": "Description delivery"
+  },
+  "payment": {
+    "title": "Payment",
+    "driver": "Driver",
+    "user": "User",
+    "expectCost": "Expect Cost",
+    "lastCost": "Last Cost",
+    "promotion": "Promotion",
+    "amount": "AMOUNT",
+    "commission": "Commission",
+    "paymentMethod": "Payment Method",
+    "tip": "Tip"
+  },
+  "timeline": {
+    "sendRequest": "Send Request - Looking for Driver",
+    "driverAccept": "Driver accepted deal",
+    "pickedUp": "Driver picked up",
+    "complete": "Deliver Successfully - Package Completed"
+  },
+  "statistic": {
+    "totalOrders": "Total Orders",
+    "totalUsers": "Total Users",
+    "totalDrivers": "Total Drivers",
+    "revenue": "Revenue",
+    "averageFee": "Average Fee"
+  },
+  "transportation": {
+    "title": "Type",
+    "header": "Settings",
+    "id": "Type ID",
+    "type": "Transportation Type",
+    "image": "Icon",
+    "description": "Description",
+    "create": "Create Type",
+    "update": "Update Type",
+    "createSuccess": "Create transportation successfully!",
+    "updateSuccess": "Update transportation successfully!",
+    "enableSuccess": "Enable transportation successfully!",
+    "disableSuccess": "Disable transportation successfully!"
+  },
+  "promotion": {
+    "header": "Promotion Management",
+    "code": "Code",
+    "type": "Promotion Type",
+    "amount": "Amount",
+    "limit": "Limit",
+    "condition": "Condition",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "user": "User",
+    "driver": "Driver",
+    "referral": "Referral",
+    "createForUser": "Create User Promotion",
+    "createForDriver": "Create Driver Promotion",
+    "updateForUser": "Update User Promotion",
+    "updateForDriver": "Update Driver Promotion",
+    "enableSuccess": "Enable promotion success!",
+    "disableSuccess": "Disable promotion success!",
+    "updateSuccess": "Update promotion successfully!",
+    "createSuccess": "Create promotion successfully!",
+    "create": "Create Promotion",
+    "update": "Update Promotion",
+    "percentageDiscount": "Percentage Discount",
+    "fixedCashDiscount": "Fixed Cash Discount",
+    "percentage": "Percentage",
+    "fixedCash": "Fixed Cash"
+  },
+  "commission": {
+    "title": "Commission rate",
+    "driverCommission": "Driver commission",
+    "commissionLabel": "Commission"
+  },
+  "referral": {
+    "title": "Referral code",
+    "referralAmount": "Referral amount",
+    "amount": "Amount",
+    "updateSuccess": "Update promotion referral successfully!"
+  },
+  "tracking": {
+    "title": "Tracking Your Package Here",
+    "description": "Or download app to access these more features:",
+    "searchPlaceholder": "Enter your package ID to see details",
+    "noResult": "No matching result",
+    "packageId": "Package ID",
+    "packageInformation": "Package Information",
+    "deliveryInformation": "Delivery Information",
+    "pickPackageAt": "Pick package at",
+    "deliveryTo": "Delivery to",
+    "distance": "*Distance from sender to receiver",
+    "driverInformation": "Driver Information",
+    "noDriver": "There's no drivers picking up the order"
+  },
+  "footer" : {
+    "contact": "Contact",
+    "copyright": "Copyrights 2021 @ Pikthat"
+  },
+  "notFound": {
+    "description": "Sorry, the page you visited does not exist."
+  }
+}
